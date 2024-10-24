@@ -18,7 +18,7 @@ This project implements a rule engine that allows users to define and evaluate d
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/rule-engine-django.git
+    git clone https://github.com/AkashBhalshankar/RuleEngine1
     ```
 
 2. Navigate to the project directory:
