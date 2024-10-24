@@ -58,3 +58,10 @@ This project implements a rule engine that allows users to define and evaluate d
 To run tests:
 ```bash
 python manage.py test
+
+
+Future Enhancements
+--Implement editing and deletion of rules.
+--Add support for nested rules and more complex logic.
+--Introduce user authentication for personalized rule management.
+
