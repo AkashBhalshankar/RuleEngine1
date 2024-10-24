@@ -60,7 +60,7 @@ To run tests:
 python manage.py test
 
 
-Future Enhancements
+## Future Enhancements
 --Implement editing and deletion of rules.
 --Add support for nested rules and more complex logic.
 --Introduce user authentication for personalized rule management.
